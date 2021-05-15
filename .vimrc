@@ -32,6 +32,8 @@ vnoremap / /\v\c
 nnoremap <tab> %
 vnoremap <tab> %
 
+inoremap <tab> <C-n>
+
 " Visual
 set showmatch  " Show matching brackets.
 set matchtime=5  " Bracket blinking.
